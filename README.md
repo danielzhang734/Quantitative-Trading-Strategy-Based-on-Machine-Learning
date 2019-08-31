@@ -1,2 +1,3 @@
 # Quantitative Trading Strategy Based on Machine Learning
-sad1dasdas1
+A framework of machine learning strategy basing on the QuantDesk  
+Neural is a BP neural network classifier
